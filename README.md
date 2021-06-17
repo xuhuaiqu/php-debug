@@ -44,6 +44,4 @@ docker-compose exec php bash
 gdb php
 b main
 r test.php
-```# php-debug
-# php-debug
-# php-debug
+```
